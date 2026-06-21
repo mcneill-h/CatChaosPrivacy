@@ -1,6 +1,7 @@
-# CatChaosPrivacy
+# Cat Chaos! Privacy Policy
 
 Last Updated: June 21, 2026
+
 Welcome to _Cat Chaos!_ (The Apple Store game). This Privacy Policy explains how information may be collected, used, and shared when you use the App.
 By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
